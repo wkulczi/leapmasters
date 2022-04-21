@@ -1,0 +1,12 @@
+[submodule "leapjs"]
+	path = leapjs
+	url = git@github.com:wkulczi/leapjs.git
+[submodule "leapLearner"]
+	path = leapLearner
+	url = git@github.com:wkulczi/leapLearner.git
+[submodule "leapTrainer"]
+	path = leapTrainer
+	url = git@github.com:wkulczi/leapTrainer.git
+[submodule "MMM-leapMirror"]
+	path = MMM-leapMirror
+	url = https://github.com/wkulczi/MMM-leapMirror
