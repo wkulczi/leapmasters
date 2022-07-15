@@ -10,3 +10,6 @@
 [submodule "MMM-leapMirror"]
 	path = MMM-leapMirror
 	url = https://github.com/wkulczi/MMM-leapMirror
+[submodule "leapDataParser"]
+	path = leapDataParser
+	url = git@github.com:wkulczi/leapDataParser.git
