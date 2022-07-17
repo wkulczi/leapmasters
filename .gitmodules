@@ -2,7 +2,7 @@
 	path = leapjs
 	url = git@github.com:wkulczi/leapjs.git
 [submodule "leapLearner"]
-	path = leapLearner
+	path = leapModels
 	url = git@github.com:wkulczi/leapLearner.git
 [submodule "leapTrainer"]
 	path = leapDataCollector
