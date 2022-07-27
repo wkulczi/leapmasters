@@ -13,3 +13,6 @@
 [submodule "leapDataParser"]
 	path = leapDataParser
 	url = git@github.com:wkulczi/leapDataParser.git
+[submodule "leapPredict"]
+	path = leapPredict
+	url = git@github.com:wkulczi/leapPredict.git
